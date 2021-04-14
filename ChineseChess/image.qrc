@@ -1,0 +1,27 @@
+<RCC>
+    <qresource prefix="/ccmap">
+        <file>src/map/Chessmap.png</file>
+        <file>src/bavkground1.png</file>
+    </qresource>
+    <qresource prefix="/chess">
+        <file>src/chess/b_bishop.png</file>
+        <file>src/chess/b_cannon.png</file>
+        <file>src/chess/b_chariot.png</file>
+        <file>src/chess/b_general.png</file>
+        <file>src/chess/b_guard.png</file>
+        <file>src/chess/b_horse.png</file>
+        <file>src/chess/b_pawn.png</file>
+        <file>src/chess/r_bishop.png</file>
+        <file>src/chess/r_cannon.png</file>
+        <file>src/chess/r_chariot.png</file>
+        <file>src/chess/r_general.png</file>
+        <file>src/chess/r_guard.png</file>
+        <file>src/chess/r_horse.png</file>
+        <file>src/chess/r_pawn.png</file>
+    </qresource>
+    <qresource prefix="/choose">
+        <file>src/choose/canmove.png</file>
+        <file>src/choose/lastmove.png</file>
+        <file alias="whosturn">src/choose/whosturn.png</file>
+    </qresource>
+</RCC>

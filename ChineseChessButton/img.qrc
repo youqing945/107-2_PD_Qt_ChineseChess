@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/chessboard">
+        <file alias="background">src/background.png</file>
+    </qresource>
+    <qresource prefix="/chessman">
+        <file alias="b_bishop">src/chessman/b_bishop.png</file>
+        <file alias="b_cannon">src/chessman/b_cannon.png</file>
+        <file alias="b_chariot">src/chessman/b_chariot.png</file>
+        <file alias="b_general">src/chessman/b_general.png</file>
+        <file alias="b_guard">src/chessman/b_guard.png</file>
+        <file alias="b_horse">src/chessman/b_horse.png</file>
+        <file alias="b_pawn">src/chessman/b_pawn.png</file>
+        <file alias="r_bishop">src/chessman/r_bishop.png</file>
+        <file alias="r_cannon">src/chessman/r_cannon.png</file>
+        <file alias="r_chariot">src/chessman/r_chariot.png</file>
+        <file alias="r_general">src/chessman/r_general.png</file>
+        <file alias="r_guard">src/chessman/r_guard.png</file>
+        <file alias="r_horse">src/chessman/r_horse.png</file>
+        <file alias="r_pawn">src/chessman/r_pawn.png</file>
+    </qresource>
+</RCC>
