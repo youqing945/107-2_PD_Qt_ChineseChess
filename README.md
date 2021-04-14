@@ -1,6 +1,8 @@
 # 107-2_PD_Qt_ChineseChess
 107-2 NCKU Program Design Project #2.
 
+Description: https://slides.com/hmkrl/2019-pd2-project-2
+
 Notice: CC and CCB are two separate Qt Project.
 One of them is from a public repository but I forget its name.
 
